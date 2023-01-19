@@ -1,11 +1,8 @@
 # KPMGInternCapstone.github.io
 This repository contains the files for my KPMG Data Analytics Consulting Virtual Internship.
+[SPROKET DASHBOARD FINAL](https://user-images.githubusercontent.com/70212980/213344502-4e88230f-ad4d-4324-8b69-5adbfc74213f.JPG)
 
-*Project Description*![SPROKET DASHBOARD FINAL](https://user-images.githubusercontent.com/70212980/213344502-4e88230f-ad4d-4324-8b69-5adbfc74213f.JPG)
-[KPMG_Sprocket Project 1.pdf](https://github.com/Prinzeepule/KPMGInternCapstone.github.io/files/10453053/KPMG_Sprocket.Project.1.pdf)
-[KPMG Project presentation_2.pdf](https://github.com/Prinzeepule/KPMGInternCapstone.github.io/files/10453058/KPMG.Project.presentation_2.pdf)
-[KPMG_Sprocket Project Dataset.xlsx](https://github.com/Prinzeepule/KPMGInternCapstone.github.io/files/10453060/KPMG_Sprocket.Project.Dataset.xlsx)
-
+*Project Description*!
 The main goal of this project is to get insight from a dataset from a medium-size bikes & cycling accessories organization. The marketing team want to boost the sales by targeted marketing to new customers and I am required to Identify and Recommend Top high value 200 Customer to Target from 1000 new customer Dataset using the 3 datasets provided.
 
 *Data Cleaning*
